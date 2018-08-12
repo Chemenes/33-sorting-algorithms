@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Chemenes/33-sorting-algorithms.svg?branch=master)](https://travis-ci.org/Chemenes/33-sorting-algorithms)
+
 Bubble Sort
 
 -Big O
